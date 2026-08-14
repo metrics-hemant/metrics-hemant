@@ -130,27 +130,8 @@ Summer-Olympic-Medals-Analysis/
 
 ---
 
-## How to Run
 
-### Clone the repository
 
-```bash
-git clone https://github.com/your-username/Summer-Olympic-Medals-Analysis.git
-```
-
-### Install dependencies
-
-```bash
-pip install pandas numpy matplotlib plotly jupyter
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the notebook and run all cells to reproduce the complete analysis.
 
 ---
 
